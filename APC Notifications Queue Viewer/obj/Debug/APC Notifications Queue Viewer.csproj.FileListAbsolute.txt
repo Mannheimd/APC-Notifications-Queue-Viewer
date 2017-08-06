@@ -1,1 +1,14 @@
 G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\bin\Debug\APC Notifications Queue Viewer.exe.config
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer.csprojResolveAssemblyReference.cache
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\MainWindow.g.cs
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\App.g.cs
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer_MarkupCompile.cache
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer_MarkupCompile.lref
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\bin\Debug\APC Notifications Queue Viewer.exe
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\bin\Debug\APC Notifications Queue Viewer.pdb
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\MainWindow.baml
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer.g.resources
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC_Notifications_Queue_Viewer.Properties.Resources.resources
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer.csproj.GenerateResource.Cache
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer.exe
+G:\Users\Chris\Dropbox\Development\C# Stuff\APC-Notifications-Queue-Viewer\APC Notifications Queue Viewer\obj\Debug\APC Notifications Queue Viewer.pdb
